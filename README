@@ -1,9 +1,10 @@
 
-	Notes on building Xenocara for OpenBSD X hackers
+o About This build of Xenocara
+  --------------
+ This is my personal build of xenocara. I intend to modernize certain features and get Xenocara to work better with my windows manager.
+ This will also be a port for Xenocara to Alpine linux.
 
-This document presents some techniques that can be useful for people
-wanting to hack the xenocara tree. It assumes some basic knowledge of
-the OpenBSD build system, as described in the release(8) manual page.
+Notes on building Xenocara for OpenBSD X hackers
 
 o About Xenocara
   --------------
@@ -211,4 +212,4 @@ The core dump will be in /var/crash.
 See also <http://xorg.freedesktop.org/wiki/Development/Documentation/ServerDebugging>
 
 -- 
-$OpenBSD: README,v 1.42 2018/07/19 12:14:37 matthieu Exp $
+$Ryxenocara: README,v 1.00 2019/01/05 3:00:0 Lin-boi Exp $
